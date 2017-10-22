@@ -1,5 +1,4 @@
 # asru2017-method
-<<<<<<< HEAD
 
 This repo contains:
 1. [**Step1_processAudio.m**] feature extraction pipeline.<br>
@@ -57,6 +56,4 @@ You may choose to work with the features from Step 1, Step 5, or Step 6, and var
 
 4. This training method was repeated for all leave-one-out (N) folds.
 
-![alt tag](https://github.mit.edu/tuka/asru2017-method/blob/master/DiagramFeature.png?raw=true)
-=======
->>>>>>> be10342a5ca8bf3db4430948175540d8ccfb2343
+![alt tag](https://github.com/talhanai/asru2017-method/blob/master/DiagramFeature.png?raw=true)
