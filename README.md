@@ -8,6 +8,23 @@ This repo contains:
    Input: audioFeatures.csv, outcomes.csv<br>
    Output: cal variable in workspace.<br>
 
+## Reference
+This work was developed to detect individuals with cognitive impairment via features found in speech and language, and to determine the predictive power of such features. A core constraint that lead to using the methods described was the low ratio of examples to features (less than 1 to 10). You can find the full details here:
+
+   [Spoken Language Biomarkers for Detecting Cognitive Impairment](https://groups.csail.mit.edu/sls/publications/2017/ASRU17_alhanai.pdf) <br>
+   T. Alhanai, R. Au, and J. Glass, IEEE ASRU, Dec 2017, Japan
+
+```
+@inproceedings{alhanai2017spoken,
+  title={Spoken Language Biomarkers for Detecting Cognitive Impairment},
+  author={Alhanai, Tuka and Au, Rhoda and Glass, James},
+  booktitle={Automatic Speech Recognition \& Understanding, 2017. ASRU. IEEE Workshop on},
+  year={2017},
+  organization={IEEE}
+}
+```
+
+
 ## Feature extraction pipeline [**Step1_processAudio.m**]
 The acoustic feature extraction pipeline is as follows, with the steps also denoted in the code itself:
 
