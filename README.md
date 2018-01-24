@@ -9,7 +9,7 @@ This repo contains:
    Output: cal variable in workspace.<br>
 
 ## Reference
-This work was developed to detect individuals with cognitive impairment via features found in speech and language, and to determine the predictive power of such features. A core constraint that lead to using the methods described was the low ratio of examples to features (less than 1 to 10). You can find the full details here:
+This work was developed to detect individuals with cognitive impairment via features found in speech and language, and to determine the predictive power of such features. A core constraint that lead to using the methods described was the low ratio of examples to features (less than 10 to 1). You can find the full details here:
 
    [Spoken Language Biomarkers for Detecting Cognitive Impairment](https://groups.csail.mit.edu/sls/publications/2017/ASRU17_alhanai.pdf) <br>
    T. Alhanai, R. Au, and J. Glass, IEEE ASRU, Dec 2017, Japan
